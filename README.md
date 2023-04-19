@@ -8,8 +8,13 @@ Having successfully analyzed the weather in cities across the world in a [previo
 -----
 
 ### Table of Contents
-  1. [Data Exploration](https://github.com/jonnybrammah/Mars-Exploration/blob/main/README.md#data-exploration)
-  2.[Data Analysis](https://github.com/jonnybrammah/Mars-Exploration/blob/main/README.md#data-analysis)
+1. [Data Exploration](https://github.com/jonnybrammah/Mars-Exploration/blob/main/README.md#data-exploration)
+2. [Data Analysis](https://github.com/jonnybrammah/Mars-Exploration/blob/main/README.md#data-analysis) </br>
+
+    a) [Martian Months and Martian Days](https://github.com/jonnybrammah/Mars-Exploration/blob/main/README.md#Martian-Months-and-Martian-Days)
+    b) [Temperature by Month on Mars](https://github.com/jonnybrammah/Mars-Exploration/blob/main/README.md#Temperature-by-Month-on-Mars)
+    c) [Pressure by Month on Mars](https://github.com/jonnybrammah/Mars-Exploration/blob/main/README.md#Pressure-by-Month-on-Mars)
+    d) [Terrestrial Days in Martian Year](https://github.com/jonnybrammah/Mars-Exploration/blob/main/README.md#Terrestrial-Days-in-Martian-Year)
 
 -----
 
@@ -43,10 +48,11 @@ This is perhaps more visible in the following graph which shows the average mini
 #### Pressure by Month on Mars
 The pressure associated with each Martian month was also then identified from the data, and this is also shown in the graph below:
 ![Pressure Graph](https://raw.githubusercontent.com/jonnybrammah/Mars-Exploration/main/Output/Images/pressure_by_month_sorted.png)
+
 From the graph, it can be seen that the highest pressure occurs in Month number 9, with a pressure of 913 Pa (about 100 times lower than atmospheric pressure on Earth). The lowest pressure recorded was in Month number 6, with a record low of 745 Pa.
 
 #### Terrestrial Days in Martian Year
 Finally, an estimate of the number of terrestrial days in a Martian year was made by plotting the minimum temperature recording from the Curiosity rover against the count of terrestrial days. This results in the following graph:
 ![Temperature per terrestrial day Graph](https://raw.githubusercontent.com/jonnybrammah/Mars-Exploration/main/Output/Images/min_temp_per_terrestrial_day.png)
 
-We would expect the minimum temperature to fluctuate seasonally due to 
+As discussed in the temperature section, we would expect the minimum temperature to fluctuate seasonally due to the changes in distance from the planet to the Sun, and this seasonal variation is visible in the graph. By counting the number of terrestrial days between two peaks or troughs, we can estimate how many terrestrial days occur between one full cycle of Mars' orbit. This results in about 625 Earth days in one Martian year. A google search for the same thing reveals the expected result is about [687 days](https://mars.nasa.gov/all-about-mars/facts/mars-year), which puts my estimate off by a percentage difference of about 9%.
