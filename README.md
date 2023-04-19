@@ -40,7 +40,7 @@ The temperature associated with each Martian month could then be identified. Wit
 The graph below shows the average minimum temperature at Curiosity's location on Mars for each month, and the seasonal variation is visible in the pattern.
 ![Minimum Temperature Graph](https://raw.githubusercontent.com/jonnybrammah/Mars-Exploration/main/Output/Images/min_temp_by_month.png)
 
-You can see from the graph that the coldest month is Month number 3 with an average minimum temperature of -83.3°C. The warmest month is roughly half a year later (as expected) at Month number 8, which has an average minumum temperature of -68.4°C.
+You can see from the graph that the <strong>coldest month is Month number 3 with an average minimum temperature of -83.3°C</strong>. <strong>The warmest month is roughly half a year later (as expected) at Month number 8, which has an average minumum temperature of -68.4°C</strong>.
 This is perhaps more visible in the following graph which shows the average minimum temperature against month, but sorted from coldest to warmest:
 ![Minimum Temperature Graph](https://raw.githubusercontent.com/jonnybrammah/Mars-Exploration/main/Output/Images/min_temp_by_month_sorted.png)
 
@@ -48,10 +48,11 @@ This is perhaps more visible in the following graph which shows the average mini
 The pressure associated with each Martian month was also then identified from the data, and this is also shown in the graph below:
 ![Pressure Graph](https://raw.githubusercontent.com/jonnybrammah/Mars-Exploration/main/Output/Images/pressure_by_month_sorted.png)
 
-From the graph, it can be seen that the highest pressure occurs in Month number 9, with a pressure of 913 Pa (about 100 times lower than atmospheric pressure on Earth). The lowest pressure recorded was in Month number 6, with a record low of 745 Pa.
+From the graph, it can be seen that the <strong>highest pressure occurs in Month number 9, with a pressure of 913 Pa</strong> (about 100 times lower than atmospheric pressure on Earth). <strong>The lowest pressure recorded was in Month number 6, with a record low of 745 Pa</strong>.
 
 #### Terrestrial Days in Martian Year
 Finally, an estimate of the number of terrestrial days in a Martian year was made by plotting the minimum temperature recording from the Curiosity rover against the count of terrestrial days. This results in the following graph:
 ![Temperature per terrestrial day Graph](https://raw.githubusercontent.com/jonnybrammah/Mars-Exploration/main/Output/Images/min_temp_per_terrestrial_day.png)
 
-As discussed in the temperature section, we would expect the minimum temperature to fluctuate seasonally due to the changes in distance from the planet to the Sun, and this seasonal variation is visible in the graph. By counting the number of terrestrial days between two peaks or troughs, we can estimate how many terrestrial days occur between one full cycle of Mars' orbit. This results in about 625 Earth days in one Martian year. A google search for the same thing reveals the expected result is about [687 days](https://mars.nasa.gov/all-about-mars/facts/mars-year), which puts my estimate off by a percentage difference of about 9%.
+As discussed in the temperature section, we would expect the minimum temperature to fluctuate seasonally due to the changes in distance from the planet to the Sun, and this seasonal variation is visible in the graph. By counting the number of terrestrial days between two peaks or troughs, we can estimate how many terrestrial days occur between one full cycle of Mars' orbit.
+<strong>This results in about 625 Earth days in one Martian year</strong>. A google search for the same thing reveals the expected result is about [687 days](https://mars.nasa.gov/all-about-mars/facts/mars-year), which puts my estimate off by a percentage difference of about 9%.
