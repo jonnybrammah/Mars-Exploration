@@ -10,10 +10,9 @@ Having successfully analyzed the weather in cities across the world in a [previo
 ### Table of Contents
 1. [Data Exploration](https://github.com/jonnybrammah/Mars-Exploration/blob/main/README.md#data-exploration)
 2. [Data Analysis](https://github.com/jonnybrammah/Mars-Exploration/blob/main/README.md#data-analysis) </br>
-
-    a) [Martian Months and Martian Days](https://github.com/jonnybrammah/Mars-Exploration/blob/main/README.md#Martian-Months-and-Martian-Days)
-    b) [Temperature by Month on Mars](https://github.com/jonnybrammah/Mars-Exploration/blob/main/README.md#Temperature-by-Month-on-Mars)
-    c) [Pressure by Month on Mars](https://github.com/jonnybrammah/Mars-Exploration/blob/main/README.md#Pressure-by-Month-on-Mars)
+    a) [Martian Months and Martian Days](https://github.com/jonnybrammah/Mars-Exploration/blob/main/README.md#Martian-Months-and-Martian-Days) </br>
+    b) [Temperature by Month on Mars](https://github.com/jonnybrammah/Mars-Exploration/blob/main/README.md#Temperature-by-Month-on-Mars) </br>
+    c) [Pressure by Month on Mars](https://github.com/jonnybrammah/Mars-Exploration/blob/main/README.md#Pressure-by-Month-on-Mars) </br>
     d) [Terrestrial Days in Martian Year](https://github.com/jonnybrammah/Mars-Exploration/blob/main/README.md#Terrestrial-Days-in-Martian-Year)
 
 -----
